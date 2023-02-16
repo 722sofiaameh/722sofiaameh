@@ -65,4 +65,4 @@ Spend time with family.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=722sofiaameh&theme=dark&background=000000)](https://git.io/streak-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=722sofiaameh&hide=contribs,prs&theme=dark&background=000000&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=722sofiaameh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
