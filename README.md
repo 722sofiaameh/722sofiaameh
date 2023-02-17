@@ -56,7 +56,7 @@ Spend time with family.
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" width="40" height="40"/>&nbsp;                                                                                                                   
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" width="40" height="40"/>&nbsp;                                                                                                                    -->
 </div>
 
 ---
