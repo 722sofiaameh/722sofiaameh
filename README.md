@@ -1,9 +1,10 @@
 
 <div id="header" align="center">
 <h1>
-  Hey there!!, I'm Sophia
+  Hello, I'm Sophia
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
   <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
   <div id="badges" >
   <a href="https://www.linkedin.com/in/sophia-ameh-67a849248/">
